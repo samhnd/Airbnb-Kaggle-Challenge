@@ -8,4 +8,4 @@ Predict if the next customer will book a room, and if so, in which country will 
 - Predictive models with Machine Learning on Python (Scikit-Learn).
 
 ### Bonus: AutoML
-Use of H20 library to compare our results.
+Use of H2O library to compare our results.
